@@ -1,9 +1,9 @@
 # Probably.jl
 _Probabilistic data structures in Julia_
 
-[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://jakobnissen.github.io/Probably.jl/dev)
-[![CI](https://github.com/jakobnissen/Probably.jl/workflows/CI/badge.svg)](https://github.com/jakobnissen/Probably.jl/actions?query=workflow%3ACI)
-[![Codecov](https://codecov.io/gh/jakobnissen/Probably.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/jakobnissen/Probably.jl)
+[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://kernelmethod.github.io/Probably.jl/dev)
+[![CI](https://github.com/kernelmethod/Probably.jl/workflows/CI/badge.svg)](https://github.com/kernelmethod/Probably.jl/actions?query=workflow%3ACI)
+[![Codecov](https://codecov.io/gh/kernelmethod/Probably.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/kernelmethod/Probably.jl)
 
 Probably.jl provides an implementation of common probabilistic data structures that are:
 - Written in pure Julia

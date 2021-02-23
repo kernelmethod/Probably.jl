@@ -14,5 +14,5 @@ makedocs(
 )
 
 deploydocs(
-    repo = "github.com/jakobnissen/Probably.jl.git",
+    repo = "github.com/kernelmethod/Probably.jl.git",
     target = "build")
